@@ -1,0 +1,26 @@
+*body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    flex: 1 0 auto;
+}
+
+.navbar, footer {
+    background-color: #1d2951 !important;
+}
+
+.form-box{
+    min-height: 180px;
+    max-width: 100%;
+}
+.button-box{
+    min-height: 190px;
+    max-width: 100%;
+}
+
+.output-box{
+    min-height: 120px;
+    max-width: 100%;
+}
